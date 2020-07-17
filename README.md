@@ -11,7 +11,7 @@ This tool fixes some bitchute videos, that do not load. Please note, that it can
 
 Which browsers are compatible?
 ------------------------------
-This extension is compatible only with chrome-based Browsers, like Google Chrome or Brave.
+This extension is compatible only with chrome-based Browsers, like Google Chrome or Brave. For the Firefox browser, please visit: https://github.com/YouranonymousFriend/Bc-Video-Fix-FF
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
