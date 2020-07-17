@@ -45,6 +45,7 @@ Screenshot 2:
 
 Screenshot 3:
 <img src="https://github.com/YouranonymousFriend/BC-Video-Fix/blob/master/doc/img/03.png" />
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Please note, this project is in no way connected to Bitchute.
