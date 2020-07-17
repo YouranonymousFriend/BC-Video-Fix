@@ -23,6 +23,28 @@ How-To install:
 3. Click “Load unpacked”
 4. Upload the directory
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+How-To use this extension:
+--------------------------
+
+1. After having installed the extension, click on the extensions icon (see screenshot 1)
+2. After having clicked this, click on the BC Video Fix extension (see screenshot 2)
+3. After having done this, click on the "Fix Video!" button
+4. You will be redirected to the fixed video
+5. Wait some seconds and the video will start
+
+Screenshots:
+------------
+
+Screenshot 1:
+<img src="https://github.com/YouranonymousFriend/BC-Video-Fix/blob/master/01.png" />
+
+Screenshot 2:
+<img src="https://github.com/YouranonymousFriend/BC-Video-Fix/blob/master/02.png" />
+
+Screenshot 3:
+<img src="https://github.com/YouranonymousFriend/BC-Video-Fix/blob/master/03.png" />
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Please note, this project is in no way connected to Bitchute.
