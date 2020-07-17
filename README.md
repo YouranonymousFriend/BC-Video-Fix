@@ -38,13 +38,13 @@ Screenshots:
 ------------
 
 Screenshot 1:
-<img src="https://github.com/YouranonymousFriend/BC-Video-Fix/blob/master/01.png" />
+<img src="https://github.com/YouranonymousFriend/BC-Video-Fix/blob/master/doc/img/01.png" />
 
 Screenshot 2:
-<img src="https://github.com/YouranonymousFriend/BC-Video-Fix/blob/master/02.png" />
+<img src="https://github.com/YouranonymousFriend/BC-Video-Fix/blob/master/doc/img/02.png" />
 
 Screenshot 3:
-<img src="https://github.com/YouranonymousFriend/BC-Video-Fix/blob/master/03.png" />
+<img src="https://github.com/YouranonymousFriend/BC-Video-Fix/blob/master/doc/img/03.png" />
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Please note, this project is in no way connected to Bitchute.
