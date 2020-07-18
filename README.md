@@ -57,7 +57,7 @@ How-To use this extension to download a video:
 Screenshots:
 ------------
 
-Screenshot 4:
+Screenshot 4:<br>
 <img src="https://github.com/YouranonymousFriend/BC-Video-Fix/blob/master/doc/img/04.png" />
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
