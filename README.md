@@ -46,6 +46,20 @@ Screenshot 2:
 Screenshot 3:
 <img src="https://github.com/YouranonymousFriend/BC-Video-Fix/blob/master/doc/img/03.png" />
 
+
+How-To use this extension to download a video:
+----------------------------------------------
+
+1. After having installed the extension, click on the extensions icon (see screenshot 1)
+2. After having clicked this, click on the BC Video Fix extension (see screenshot 2)
+2. After having done this, click on the "Download Video!" button (see screenshot 4)
+
+Screenshots:
+------------
+
+Screenshot 4:
+<img src="https://github.com/YouranonymousFriend/BC-Video-Fix/blob/master/doc/img/04.png" />
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Please note, this project is in no way connected to Bitchute.
