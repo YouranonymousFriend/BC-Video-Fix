@@ -2,13 +2,26 @@
 <html>
   <head>
     <title>BC Video Fix</title>
+	<link rel="stylesheet" type="text/css" href="css/main.css">
   </head>
   <body>
     <h1>BC Video Fix</h1>
     <button id="fixVideo">Fix Video!</button>
+	<hr>
     <button id="dlVideo">Download Video!</button>
-	<a href="https://docs.google.com/uc?id=0B0jH18Lft7ypSmRjdWg1c082Y2M" download id="download" hidden></a>
-
-		<script src="fix.js"></script>
+	<hr>
+	Search via an external search engine:<br>
+	<select id="selectSearchEngine">
+		<option value="duckduckgo">DuckDuckGo</option>	
+		<option value="google">Google</option>
+		<option value="bing">Bing</option>
+		<option value="qwant">Qwant</option>
+		<option value="yandex">Yandex</option>
+	</select>
+	<input id="myquery" name="myquery" placeholder="your search query">
+	<button id="search">Search</button>
+	<a href="#" download id="download" hidden></a>
+	<script src="js/fix.js"></script>
+	<script src="js/query.js"></script>
   </body>
 </html>
