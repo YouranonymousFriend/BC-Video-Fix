@@ -1,10 +1,10 @@
 {
     "manifest_version": 2,
-    "name":    "BC Video Fix Plugin",
-    "version": "0.0",
+    "name":    "BC Video Fix DL Plugin",
+    "version": "0.2",
 
 	"browser_action": {
-    "default_title": "BC Video Fix Plugin",
+    "default_title": "BC Video Fix DL Plugin",
     "default_popup": "index.html"
 	},
 	"permissions": [
