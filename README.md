@@ -25,8 +25,8 @@ How-To install:
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-How-To use this extension:
---------------------------
+How-To use this extension to fix a video:
+-----------------------------------------
 
 1. After having installed the extension, click on the extensions icon (see screenshot 1)
 2. After having clicked this, click on the BC Video Fix extension (see screenshot 2)
@@ -52,13 +52,34 @@ How-To use this extension to download a video:
 
 1. After having installed the extension, click on the extensions icon (see screenshot 1)
 2. After having clicked this, click on the BC Video Fix extension (see screenshot 2)
-2. After having done this, click on the "Download Video!" button (see screenshot 4)
+3. After having done this, click on the "Download Video!" button (see screenshot 4)
 
 Screenshots:
 ------------
 
 Screenshot 4:<br>
 <img src="https://github.com/YouranonymousFriend/BC-Video-Fix/blob/master/doc/img/04.png" />
+
+How-To use this extension to search on an external search engine:
+-----------------------------------------------------------------
+
+1. After having installed the extension, click on the extensions icon (see screenshot 1)
+2. After having clicked this, click on the BC Video Fix extension (see screenshot 2)
+3. After having done this, select your search engine via the select box (see screenshot 5)
+4. After having done this, type your search query in the input field (see screenshot 6)
+5. After having done this, click on the "Search" button (see screenshot 7)
+
+Screenshots:
+------------
+
+Screenshot 5:<br>
+<img src="https://github.com/YouranonymousFriend/BC-Video-Fix/blob/master/doc/img/05.png" />
+
+Screenshot 6:<br>
+<img src="https://github.com/YouranonymousFriend/BC-Video-Fix/blob/master/doc/img/06.png" />
+
+Screenshot 7:<br>
+<img src="https://github.com/YouranonymousFriend/BC-Video-Fix/blob/master/doc/img/07.png" />
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
