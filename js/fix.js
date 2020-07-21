@@ -1,3 +1,5 @@
+var isonfixed = 0;
+
 document.getElementById("fixVideo").addEventListener('click', () => {
 
     function modifyDOM() {
@@ -27,19 +29,36 @@ document.getElementById("dlVideo").addEventListener('click', () => {
         code: '(' + modifyDOM + ')();' //argument here is a string but function.toString() returns function's code
     }, (results) => {
 		fixedUrl = searchBuggyVideo(results[0]);
-    document.getElementById('download').href = fixedUrl;
-    document.getElementById('download').click();
+		if(isonfixed == 0) {
+			document.getElementById('download').href = fixedUrl;
+			document.getElementById('download').click();
+		} else {
+			currentLocation = chrome.tabs.query({ currentWindow: true, active: true }, logTabs);
+		}
     });
 	
 });
 
+// dl fixed videos
+function logTabs(tabs) {
+    let tab = tabs[0]; // Safe to assume there will only be one result
+	currentLocation = tab.url;
+	document.getElementById('download').href = currentLocation;
+	document.getElementById('download').click();
+}
+
 function searchBuggyVideo(dom) {
 	var regex = /<source.*?src='(.*?)'/;
-	dom = dom.replace(/ +(?= )/g,'');
-	dom = dom.replace(/(\r\n|\n|\r)/gm, "");
-	dom = dom.replace(/"/g, '\'');
-	var videosource = regex.exec(dom)[1];
-	splitSrc = videosource.split(/(seed\d\d\d)/);
-	returnUrl = videosource.replace(splitSrc[1], "seed126");
-	return returnUrl;
+	if(dom != null) {
+		dom = dom.replace(/ +(?= )/g,'');
+		dom = dom.replace(/(\r\n|\n|\r)/gm, "");
+		dom = dom.replace(/"/g, '\'');
+		var videosource = regex.exec(dom)[1];
+		splitSrc = videosource.split(/(seed\d\d\d)/);
+		returnUrl = videosource.replace(splitSrc[1], "seed126");
+		return returnUrl;
+	} else {
+		isonfixed = 1;
+		return true;
+	}
 }
