@@ -1,11 +1,15 @@
 {
     "manifest_version": 2,
     "name":    "BC Video Fix",
-    "version": "0.3.1",
-
+    "version": "0.3.2",
+	"icons": {
+		"16": "/img/icon/icon-16.png",
+		"48": "/img/icon/icon-48.png",
+		"128": "/img/icon/icon-128.png"
+    },
 	"browser_action": {
-    "default_title": "BC Video Fix",
-    "default_popup": "index.html"
+		"default_title": "BC Video Fix",
+		"default_popup": "index.html"
 	},
 	"permissions": [
 		"https://*.bitchute.com/*"
