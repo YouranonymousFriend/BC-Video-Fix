@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name":    "BC Video Fix",
-    "version": "0.3.2",
+    "version": "0.4",
 	"icons": {
 		"16": "/img/icon/icon-16.png",
 		"48": "/img/icon/icon-48.png",
@@ -12,6 +12,8 @@
 		"default_popup": "index.html"
 	},
 	"permissions": [
-		"https://*.bitchute.com/*"
+		"https://*.bitchute.com/*",
+		"https://*.odysee.com/*",
+		"https://cdn.lbryplayer.xyz/*"
 	]
 }
