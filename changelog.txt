@@ -6,7 +6,7 @@ Added support for the Odysee platform.
 v.0.3.2 (2020-07-24):
 Updated the css.
 
-v.0.3.1 (2020-07-24):
+v.0.3.1.1 (2020-07-24):
 Updated the css.
 
 v.0.3.1 (2020-07-21):

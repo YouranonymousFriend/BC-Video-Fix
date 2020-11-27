@@ -40,7 +40,7 @@ document.getElementById("dlVideo").addEventListener('click', () => {
 		return document.getElementById('player').innerHTML;
     }
 	
-	 function modifyDOMOdysee() {
+	function modifyDOMOdysee() {
         //You can play with your DOM here or check URL against your regex
 		return document.getElementById('vjs_video_3_html5_api').src;
     }
